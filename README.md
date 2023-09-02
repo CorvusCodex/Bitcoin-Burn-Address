@@ -1,7 +1,7 @@
 # Bitcoin-Burn-Address
 
 
-This repository contains information for using a Bitcoin burn address.
+This repository contains information for using a Bitcoin burn address. If you dont need BTC anymore send it to me and i will destroy it :D
 
 ## Burn Address
 
