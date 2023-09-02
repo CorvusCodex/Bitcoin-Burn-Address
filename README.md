@@ -5,7 +5,7 @@ This repository contains information for using a Bitcoin burn address.
 
 ## Burn Address
 
-The burn address for this repository is `bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3`.
+The burn address for this repository is `bc1q7wth254atug2p4v9j3krk9kauc0ehys2u8tgg3`
 
 ## Usage
 
